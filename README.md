@@ -6,7 +6,11 @@ Welcome to the GitHub repository for the **Object Oriented Programming** course,
 
 This course is taught in **JAVA** by our esteemed instructors:
 - Theory: **Mr. Salman Sayeed Khan**
-- Laboratory: **_** & **_**
+- Laboratory: **Ms. Marshia Nujhat** & **Ms. Syeda Umme Salma**
+- Actually, I learned it myself, reading books. No one spoon fed me.
+
+## ℹ️ Source
+The learning materials are primarily from a book (Thanks to **Mr. Salman Sayeed Khan** sir for the book) and more.
 
 ## ⚠️ Caution: 
 - **Cheating**: Cheating in any form will not be tolerated in this course. All assignments and projects are to be completed individually unless specified otherwise.
